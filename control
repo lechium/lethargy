@@ -1,0 +1,9 @@
+Package: com.nito.lethargy
+Name: Lethargy
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: appletvos-arm64
+Description: Are you really annoyed by useless alerts bothering you when you are watching a video? I was too. Put em to sleep! 
+Maintainer: Kevin Bradley
+Author: Kevin Bradley
+Section: System

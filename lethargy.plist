@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.TVSettings",
+			"com.apple.PineBoard",
+			"com.apple.PreBoard",
+		);
+	};
+}
