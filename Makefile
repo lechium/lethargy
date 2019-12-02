@@ -1,8 +1,8 @@
-lethargyARCHS = arm64
-TARGET = appletv
+ARCHS = arm64
+TARGET = appletv:10.2.2:10.2.22
 export GO_EASY_ON_ME=1
-export SDKVERSION=10,1
-THEOS_DEVICE_IP=bedroom.local
+THEOS_DEVICE_IP=guest-room.local
+DEBUG=0
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = lethargy
